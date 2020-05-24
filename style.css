@@ -1,1 +1,33 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15mm;
+}
+header{
+    background-color: skyblue;
+    color: mintcream;
+padding: 0.6cm;
+align-self: center;
+}
+footer{
+    background-color: skyblue;
+    padding: 0.5cm;
+    font-family: Arial, Helvetica, sans-serif;
+    color: ghostwhite;    
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+text-align: justify;
+font-size: large;
+margin-right: 50px;
+margin-left: 30px;
+}
+img.izquierda {
+    float: left;
+    margin-right: 20px;
+    margin-left: 30px;
 
+  }
